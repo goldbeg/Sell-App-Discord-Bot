@@ -2,6 +2,8 @@
 
 ## Setup Guide
 
+> [!WARNING] This is a very specific use case discord bot.
+
 ### Prerequisites
 - Node.js (v16.9.0 or higher)
 - npm (Node Package Manager)
@@ -13,7 +15,7 @@
  - [ ] Add commands to change specific row(s) data.
  - [ ] Add account email:pass into spreadsheet information request.
  - [ ] More Webhook capabilites.
- - [ ] Sell.App - Discord account linking.
+ - [ ] Multi-Platform Account Linking.
 
 ### Environment Variables Setup
 Create a `.env` file in the root directory of your project with the following variables:
