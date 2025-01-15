@@ -9,6 +9,12 @@
 - A Sell.app account
 - A Google Cloud account
 
+### Sell-App Discord Bot Future Roadmap
+ - [ ] Add commands to change specific row(s) data.
+ - [ ] Add account email:pass into spreadsheet information request.
+ - [ ] More Webhook capabilites.
+ - [ ] Sell.App - Discord account linking.
+
 ### Environment Variables Setup
 Create a `.env` file in the root directory of your project with the following variables:
 
