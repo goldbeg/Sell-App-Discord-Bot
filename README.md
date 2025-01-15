@@ -2,7 +2,7 @@
 
 ## Setup Guide
 
-[!WARNING] This is a very specific use case discord bot.
+> This is a very specific use case discord bot.
 
 ### Prerequisites
 - Node.js (v16.9.0 or higher)
